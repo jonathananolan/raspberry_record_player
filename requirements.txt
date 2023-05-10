@@ -1,0 +1,6 @@
+requirements:
+    https://github.com/sawyerbfuller/pi-music-server
+    https://github.com/jishi/node-sonos-http-api
+    https://github.com/CoreElectronics/CE-PiicoDev-Unified
+    requests (pip install requests)
+#    Spotify logged in on your sonos! 
