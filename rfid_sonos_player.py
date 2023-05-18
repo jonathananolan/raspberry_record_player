@@ -15,11 +15,11 @@ while True:
     sleep_ms(1000)
     if myString != myString_new and myString_new != "":
         myString = rfid.readText()
-        response = requests.get("http://localhost:5005/Bedroom/" + myString)        # To execute get request 
-        sleep_ms(1000)
-        response = requests.get("http://localhost:5005/Bedroom/play")        # To execute get request 
+        response = requests.get("http://localhost:5005/Living Room/" + myString)        # To execute get request 
         print(response.status_code)     # To print http response code  
         print(response.text)            # To print formatted JSON response 
+        sleep_ms(1000)
+        response = requests.get("http://localhost:5005/Living Room/play")        # To execute get request 
         print('Text in tag:')
         print(myString)
         sleep_ms(2000)
