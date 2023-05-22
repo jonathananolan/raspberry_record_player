@@ -13,6 +13,19 @@ chmod u+x setup_service.sh
 ./setup_service.sh
 ```
 
+## Restart daily
+
+To restart the rpi daily you can use cron. To edit the cron file:
+```bash
+crontab -e
+```
+
+Then insert something like the following (this restarts every day at 4am)
+```bash
+# m h  dom mon dow   command
+  0 4   *   *   *    /usr/bin/sudo /sbin/shutdown -r now
+```
+
 ## Debugging
 
 ### Node Sonos API
