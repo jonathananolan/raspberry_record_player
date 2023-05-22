@@ -2,8 +2,8 @@ from PiicoDev_RFID import PiicoDev_RFID
 from PiicoDev_Unified import sleep_ms
 import requests
 
-# spotify room to play test sound on
-spotify_room = "Bedroom"
+# sonos room to play test sound on
+sonos_room = "Bedroom"
 
 # define sonos search string for music stored in the library or provide a spotify album url
 
@@ -13,10 +13,10 @@ spotify_room = "Bedroom"
 # spotify
 album_string = 'spotify/now/spotify:album:1bt6q2SruMsBtcerNVtpZB' 
 rfid = PiicoDev_RFID()
-load = requests.get(f"http://localhost:5005/{spotify_room}/musicsearch/library/load")        
+load = requests.get(f"http://localhost:5005/{sonos_room}/musicsearch/library/load")        
 
 print(album_string)
-response = requests.get(f"http://localhost:5005/{spotify_room}/{album_string}")        # To execute get request 
+response = requests.get(f"http://localhost:5005/{sonos_room}/{album_string}")        # To execute get request 
 print(response)
 print(response.text)            # To print formatted JSON response 
 
@@ -40,4 +40,4 @@ while True:
         print("Write failed - try again")
 
 print("Pausing")
-requests.get(f"http://localhost:5005/{spotify_room}/pause")
+requests.get(f"http://localhost:5005/{sonos_room}/pause")
