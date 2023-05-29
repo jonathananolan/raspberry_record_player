@@ -7,8 +7,7 @@ import requests
 rfid = PiicoDev_RFID()
 
 # sonos group of speakers to play
-sonos_group = "Bedroom"
-sonos_user = "James"
+sonos_group = "Living"
 
 # sleep times (ms)
 
@@ -25,7 +24,7 @@ record_removed_delay = 10000
 
 record_string = ""
 print('Hold tag near the PiicoDev RFID Module to read some text')
-load = requests.get(f"http://localhost:5005/{sonos_user}/musicsearch/library/load")    
+load = requests.get(f"http://localhost:5005/{sonos_group}/musicsearch/library/load")    
 print(load)
 
 # datetime when last read

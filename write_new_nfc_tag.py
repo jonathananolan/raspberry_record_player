@@ -3,7 +3,7 @@ from PiicoDev_Unified import sleep_ms
 import requests
 
 # sonos room to play test sound on
-sonos_room = "Bedroom"
+sonos_room = "Living"
 
 # define sonos search string for music stored in the library or provide a spotify album url
 
