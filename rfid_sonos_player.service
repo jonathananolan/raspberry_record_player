@@ -1,0 +1,12 @@
+[Unit]
+Description=Raspberry pi RFID mini-record player using Sonos speakers
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/python3 -u /home/pi/raspberry_record_player/rfid_sonos_player.py
+User=root
+StandardOutput=journal+console
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
