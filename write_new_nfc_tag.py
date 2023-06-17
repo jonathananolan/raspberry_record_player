@@ -11,7 +11,7 @@ sonos_room = "Living"
 #album_string = 'musicsearch/library/album/cat+empire' # You can store up to 143 characters on a tag
 
 # spotify
-album_string = 'spotify/now/spotify:album:1bt6q2SruMsBtcerNVtpZB' 
+album_string = "024"
 rfid = PiicoDev_RFID()
 load = requests.get(f"http://localhost:5005/{sonos_room}/musicsearch/library/load")        
 

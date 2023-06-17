@@ -22,6 +22,25 @@ start_play_delay = 2000
 # to identify cases where a record has been placed on the turntable a second time.
 record_removed_delay = 10000
 
+
+import csv
+
+def csv_lookup(lookup_key):
+    file_path = '/home/pi/raspberry_record_player/lookup_table.csv'  # Define the csv file path here
+    with open(file_path, mode='r') as file:
+        reader = csv.DictReader(file)
+        for row in reader:
+            if row['key'] == lookup_key:
+                if row['local'] == '1':
+                    # Replace spaces with "+" in both "artist" and "album" fields
+                    artist = row['artist'].replace(' ', '+')
+                    album = row['album'].replace(' ', '+')
+                    return artist + "+" + album
+                else:
+                    return "spotify/now/spotify:album:" + row['spotify_album_uri']
+    return lookup_key  # return the full key if nothing is found. 
+
+
 record_string = ""
 print('Hold tag near the PiicoDev RFID Module to read some text')
 load = requests.get(f"http://localhost:5005/{sonos_group}/musicsearch/library/load")    
@@ -37,7 +56,7 @@ while True:
     same_record_replaced = False
 
     # blocks until text is read on RFID tag
-    record_string_new = rfid.readText()
+    record_string_new = csv_lookup(rfid.readText())
     time_current_read = time.time()*1000
     time_since_last_read = time_current_read - time_last_read
     print(f"Time since last read: {time_since_last_read}ms")
@@ -50,7 +69,7 @@ while True:
             same_record_replaced = True
 
     time_last_read = time_current_read
-    
+    print("rfid read " + rfid.readText())
     print("string_new " +record_string_new)
     print("string " + record_string)
     print(f"Different record: {different_record}")
@@ -58,7 +77,7 @@ while True:
     sleep_ms(rfid_read_cycle)
 
     if record_string_new != "" and (different_record or same_record_replaced):
-        record_string = rfid.readText()
+        record_string = csv_lookup(rfid.readText())
         print('Text in tag:')
         print(record_string)
 
