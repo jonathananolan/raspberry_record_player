@@ -5,6 +5,13 @@ import requests
 # sonos room to play test sound on
 sonos_room = "Living"
 
+#You can either create a lookup file and give each string a number on the rfid, or specify the URL manually 
+#Ideally you should use hte lookup so you can change from spotify to apple music or local without too much hassle. 
+
+#using the lookup (insert a key from 001 to 999....
+album_string = "024"
+
+
 # define sonos search string for music stored in the library or provide a spotify album url
 
 # local files
@@ -12,6 +19,10 @@ sonos_room = "Living"
 
 # spotify
 album_string = "024"
+rfid = PiicoDev_RFID()
+load = requests.get(f"http://localhost:5005/{sonos_room}/musicsearch/library/load")    
+
+
 rfid = PiicoDev_RFID()
 load = requests.get(f"http://localhost:5005/{sonos_room}/musicsearch/library/load")        
 
