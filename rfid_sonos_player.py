@@ -7,7 +7,7 @@ import requests
 rfid = PiicoDev_RFID()
 
 # sonos group of speakers to play
-sonos_group = "Living"
+sonos_group = "Kitchen"
 
 # sleep times (ms)
 
@@ -80,8 +80,9 @@ while True:
         record_string = csv_lookup(rfid.readText())
         print('Text in tag:')
         print(record_string)
-
-        response = requests.get(f"http://localhost:5005/{sonos_group}/{record_string}")        
+        full_url =f"http://localhost:5005/{sonos_group}/{record_string}" 
+        print(full_url)
+        response = requests.get(full_url)        
         # only play when successful
         if response.status_code == 200:     # To print http response code  
             sleep_ms(play_delay)

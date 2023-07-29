@@ -1,32 +1,129 @@
-artist,album,key,local,spotify_album_uri
-Baker Boy,Gela,001,0,6U4EyQWAc1wCohtIV3wBqz
-Death Cab For Cutie,Photo Album,002,0,7sghJ5kN7CzwSNPf6XT56B
-Bennies,Better Off Dread,003,0,3gF0J8CErJorLigVmG28uJ
-Camp Cope,Camp Cope,004,0,53psVCWzTzrCYEYJGF9Qh5
-Amyl and the Sniffers,Comfort to Me,005,0,24JeT9uxcmqL227jId3Pci
-Hots,Shit Capitalists,006,0,1OEEk0UJaxR55lRz2BXZtH
-Courtney Barnett,"Sometimes I sit and think, and sometimes I just sit",007,0,6PosCDToF5fOdEjTI5PsDX
-Death Cab For Cutie,We have the facts and we're voting yes,008,0,1oUL840sk84LVL8ExFKLXp
-Beyonce,Lemonade,009,0,7dK54iZuOxXFarGhXwEXfF
-Death Cab For Cutie,Plans,010,0,1NFGnxmeIEBakre4DvLaJq
-Huntly,Sentimental Still,011,0,0i2fEh3aK7yNgNKP3OubFw
-Death Cab For Cutie,Transatlantacism,012,0,7jwLAtPHF7TW7dtELtayOd
-Katy Perry,Teenage Dream,013,0,2eQMC9nJE3f3hCNKlYYHL1
-The Postal Service,Give Up,014,0,1BSwkKATGVCMgNuN8ve7mz
-Amyl and the Sniffers,Amyl and the Sniffers,015,0,6t7YSHZnWeHjvj9bMhnSEa
-Beyonce,Renaissance,016,0,6FJxoadUE4JNVwWHghBwnb
-Pekka Pohjola,Harakka Bialoipokku,017,0,3Y1XUm3cSiO8Zu7ryz1w0H
-Alanis Morissette,Jagged Little Pill,018,0,5Ap3F8CxjjsQKZGASDcHNA
-Death Cab For Cutie,Narrow Stairs,019,0,7G84Q2FcA43cjLeWBSIedv
-Regina Spektor,Far,020,0,5t0lQDPLF22wmWCtSZkIVv
-Death Cab For Cutie,More Scared Of You Than You Are Of Me,021,0,4S0u2EwWBpnucVikLoIKx8
-The Front Bottoms,Talon Of the Hawk,022,0,1Xz5zrDqXetBm5HwNGSqPs
-Billie Eilish,"When We All Fall Asleep, Where Do We Go?",023,0,0S0KGZnfBGSIssfF54WSJh
-The Avalanches,Since I Left You,024,0,1AAYbsAIgEJMbxgLgpjE9y
-Pigeon Pit,Shut In,025,0,2vvB2Q0Hyekckd7ic6wOrf
-Boomgates,Double Natural,026,0,4AjgAhpj3nJ54ynDTtRY9L
-Tkay Maidza,Last Year Was Weird,027,0,0R12WqnT0IG2wZRpOl8NYU
-Nicki Minaj,Queen Radio,028,0,1ia27ME4iQkoIyUHBnJqX6
-Nicki Minaj,Beam Me Up Scotty,029,0,2upw5IrzeqKApIQZyx5o6r
-Nicki Minaj,Pink Friday,030,0,7aADdYLiK1z7GlMFr0UIZw
-Lorde,Melodrama,031,0,2B87zXm9bOWvAJdkJBTpzF
+artist,album,key,local,spotify_album_uri,album_art,Copies to print,,STILL NEED ONE,,,
+Baker Boy,Gela,1,0,6U4EyQWAc1wCohtIV3wBqz,https://a5.mzstatic.com/us/r1000/0/Music115/v4/4e/9b/d4/4e9bd459-8f9c-b72d-572d-aafb16ce616d/21UMGIM59997.rgb.jpg,0,1,1,1,,
+Death Cab For Cutie,Photo Album,2,0,7sghJ5kN7CzwSNPf6XT56B,,0,,,0,,
+Bennies,Better Off Dread,3,0,3gF0J8CErJorLigVmG28uJ,,0,,,0,,53
+Camp Cope,Camp Cope,4,0,53psVCWzTzrCYEYJGF9Qh5,,0,,,0,,
+Amyl and the Sniffers,Comfort to Me,5,0,24JeT9uxcmqL227jId3Pci,,0,,,0,,
+Hots,Shit Capitalists,6,0,1OEEk0UJaxR55lRz2BXZtH,,0,,,0,,
+Courtney Barnett,"Sometimes I sit and think, and sometimes I just sit",7,0,6PosCDToF5fOdEjTI5PsDX,,0,,,0,,
+Death Cab For Cutie,We have the facts and we're voting yes,8,0,1oUL840sk84LVL8ExFKLXp,,0,,,0,,
+Beyonce,Lemonade,9,0,7dK54iZuOxXFarGhXwEXfF,,0,,,0,,
+Death Cab For Cutie,Plans,10,0,1NFGnxmeIEBakre4DvLaJq,https://a5.mzstatic.com/us/r1000/0/Music115/v4/03/0d/0c/030d0c02-4186-a22a-ada6-a13348069d8d/075679930491.jpg,1,1,2,2,https://a5.mzstatic.com/us/r1000/0/Music115/v4/03/0d/0c/030d0c02-4186-a22a-ada6-a13348069d8d/075679930491.jpg,
+Huntly,Sentimental Still,11,0,0i2fEh3aK7yNgNKP3OubFw,,0,,,0,,
+Death Cab For Cutie,Transatlantacism,12,0,7jwLAtPHF7TW7dtELtayOd,,0,,,0,,
+Katy Perry,Teenage Dream,13,0,2eQMC9nJE3f3hCNKlYYHL1,,0,,,0,,
+The Postal Service,Give Up,14,0,1BSwkKATGVCMgNuN8ve7mz,https://a5.mzstatic.com/us/r1000/0/Music126/v4/2d/3e/f5/2d3ef561-8fc8-109d-c04d-824ab6f3c984/098787104561.png,1,,1,1,,
+Amyl and the Sniffers,Amyl and the Sniffers,15,0,6t7YSHZnWeHjvj9bMhnSEa,,0,,,0,,
+Beyonce,Renaissance,16,0,6FJxoadUE4JNVwWHghBwnb,,0,,,0,,
+Pekka Pohjola,Harakka Bialoipokku,17,0,3Y1XUm3cSiO8Zu7ryz1w0H,,0,,,0,,
+Alanis Morissette,Jagged Little Pill,18,0,5Ap3F8CxjjsQKZGASDcHNA,,0,,,0,,
+Death Cab For Cutie,Narrow Stairs,19,0,7G84Q2FcA43cjLeWBSIedv,,0,,,0,,
+Regina Spektor,Far,20,0,5t0lQDPLF22wmWCtSZkIVv,https://a5.mzstatic.com/us/r1000/0/Features115/v4/d7/0b/ce/d70bce35-ec3f-7448-a597-24cb4536f832/dj.vtzgmsxk.jpg,0,1,1,1,,
+Death Cab For Cutie,More Scared Of You Than You Are Of Me,21,0,4S0u2EwWBpnucVikLoIKx8,,0,,,0,,
+The Front Bottoms,Talon Of the Hawk,22,0,1Xz5zrDqXetBm5HwNGSqPs,,0,,,0,,
+Billie Eilish,"When We All Fall Asleep, Where Do We Go?",23,0,0S0KGZnfBGSIssfF54WSJh,,0,1,,1,,
+The Avalanches,Since I Left You,24,0,1AAYbsAIgEJMbxgLgpjE9y,,0,,,0,,
+Pigeon Pit,Shut In,25,0,2vvB2Q0Hyekckd7ic6wOrf,,0,,,0,,
+Boomgates,Double Natural,26,0,4AjgAhpj3nJ54ynDTtRY9L,,0,,,0,,
+Tkay Maidza,Last Year Was Weird,27,0,0R12WqnT0IG2wZRpOl8NYU,,0,,,0,,
+Nicki Minaj,Queen Radio,28,0,1ia27ME4iQkoIyUHBnJqX6,,0,1,,1,,
+Nicki Minaj,Beam Me Up Scotty,29,0,2upw5IrzeqKApIQZyx5o6r,,0,,,0,,
+Nicki Minaj,Pink Friday,30,0,7aADdYLiK1z7GlMFr0UIZw,,0,,,0,,
+Lorde,Melodrama,31,0,2B87zXm9bOWvAJdkJBTpzF,,0,,,0,,
+Camp Cope,Camp Cope,32,,53psVCWzTzrCYEYJGF9Qh5,,0,,,0,,
+Tempers,Private life,33,,1aPv6zzzcHcUsluBtytmpr,https://a5.mzstatic.com/us/r1000/0/Music124/v4/a5/20/a4/a520a4cf-d41a-b0f7-98f3-38410c4ae27e/758475506755.jpg,1,,1,1,,
+Death Cab For Cutie,Transatlanticism demos,34,,4EArM6cwuhMdUU07xozw5C,https://a5.mzstatic.com/us/r1000/0/Music124/v4/09/55/a7/0955a763-4f5d-377f-63b6-029b85abc169/655173993224.jpg,1,,2,1,https://a5.mzstatic.com/us/r1000/0/Music124/v4/09/55/a7/0955a763-4f5d-377f-63b6-029b85abc169/655173993224.jpg,
+HTRK,"Work (Work, Work)",35,,7G84Q2FcA43cjLeWBSIedv,https://a5.mzstatic.com/us/r1000/0/Music2/v4/c2/6d/42/c26d4251-0db2-73a1-8a89-bf1e5879d68f/cover.jpg,1,,1,1,,
+Bright Eyes,Fevers and mirrors,36,,1VPu5FJq5wg0BNJXRL6cqC,https://a5.mzstatic.com/us/r1000/0/Music125/v4/c2/e1/a5/c2e1a59a-2664-3807-c423-124d7af39572/491.jpg,2,,2,2,https://a5.mzstatic.com/us/r1000/0/Music125/v4/c2/e1/a5/c2e1a59a-2664-3807-c423-124d7af39572/491.jpg,
+Banks,Goddess,37,,7Kqq7EOubrf7bSaiyhfWY3,https://a5.mzstatic.com/us/r1000/0/Music112/v4/bb/89/4d/bb894ded-b699-0a26-ba72-2a9db9fab99c/14UMGIM14997.rgb.jpg,1,,1,1,,
+Bright Eyes,I'm wide awake it's morning,38,,6MwSuZphL6GmuSVIYUGUF7,,2,,,2,,
+Daughter,His young heart,39,,16otwol8zNdgUcOPMfWNcP,,1,1,,2,,
+Lykke Li,I never learn,40,,4fGqfyineAZmulNxgitERh,,1,1,,2,,
+Placebo,Covers,41,,7kTsa1wUFrahJJf1cJEOpZ,,1,,,1,,
+Placebo,Sleeping with ghosts,42,,2toHnQWm3IbSocaWGYi9J4,,1,,,1,,
+Orville Peck,Pony,43,,3950FHVErcINW3tjRgjebQ,,1,,,1,,
+My Chemical Romance,The black parade,44,,0FZK97MXMm5mUQ8mtudjuK,,2,1,,3,,
+My Chemical Romance,Three cheers for sweet revenge,45,,3DuiGV3J09SUhvp8gqNx8h,,2,,,2,,
+The Shins,Wincing the night away,46,,4Tm0dXi3s3aSAqng2DACHr,,2,1,,3,,
+Placebo,Without you I'm nothing,47,,4wxoPjHSYFYurNyKaEiZNT,,1,,,1,,
+Fall out boy,From under the cork tree,48,,5nkUSlIhtoJZMOUlB0sNCp,,1,,,1,,
+Fall out boy,Infinity on high,49,,0hHopYqXhuvYSHtVyrcb1g,,1,,,1,,
+Dashboard confessional,Dusk and summer,50,,2GM5W0UOKh5i5OGQl0XaRQ,,1,,,1,,
+Orville Peck,Bronco,51,,2hCcPHWTbvF81CiXPUrM6I,,1,,,1,,
+Ceres,I don't want to be anywhere but here,52,,2jlBTXX3wdjTGoX3n4eLYi,,1,,,1,,
+Blink-182,Blink-182,53,,6FBDaR13swtiWwGhX1WQsP,,2,1,,3,,
+Middle Kids,Lost friends,54,,7zBq73wLuZVSsC7JOKLXDG,,1,,,1,,
+Chvrches,The bones of what you believe,55,,7pJ9ALnHQ84XVx39UBt028,,2,,,2,,
+Lady Gaga,Born this way,56,,6LY3AerY6KNGOPsNPL63Kk,,2,1,,3,,
+Lana Del Rey,Born to die,57,,5VoeRuTrGhTbKelUfwymwu,,2,1,,3,,
+Sisters of Mercy,First and last and always,58,,0m2z3FmoowUGY4Gwu9y7nh,,1,,,1,,
+Lil Peep,Come over when you're sober pt. 1,59,,6GkrA9XjOpEFkep0TIfFB8,,1,,,1,,
+The hollies,Confessions of the Mind,60,,12YClBmrcVkW7GqtR5jtkh,,1,,,1,,
+Dirty Projectors,5 EPs,61,,7u0QlPnsqX06KfavgPeSET,https://a5.mzstatic.com/us/r1000/0/Music114/v4/f5/1a/40/f51a4062-ac67-dacd-a5e1-90610c6acb9f/887828047260.png,1,,,1,,
+Adele,19,62,,5duyQokC4FMcWPYTV9Gpf9,https://a5.mzstatic.com/us/r1000/0/Music122/v4/65/89/02/65890208-e800-b740-9a75-45ab6b1b654e/634904531362.png,1,1,,2,,
+The Village People,Can't stop the Music,63,,4oIOg6AgN5cTIQPk00RAWS,https://a5.mzstatic.com/us/r1000/0/Music/v4/e9/f0/f0/e9f0f0df-fb6f-0581-fbf5-c179e34b2b02/cover.jpg,1,,,1,,
+The Saints,I'm Stranded,64,,10hYjKl40Yu64cV3313uhU,https://a5.mzstatic.com/us/r1000/0/Music114/v4/39/9d/b1/399db115-1a36-37ab-5a18-1a0ea31d98ea/05099996872956.jpg,1,,,1,,
+Simon and Garfunkel,Bridge Over Troubled Water,65,,0JwHz5SSvpYWuuCNbtYZoV,https://a5.mzstatic.com/us/r1000/0/Music125/v4/a3/84/0a/a3840a6d-44e8-0afe-fc3e-316c517dddfe/5099749521421.jpg,1,1,,2,,
+Whitney Houston,Whitney,66,,5Vdzprr5cOqXQo44eHeV7t,https://a5.mzstatic.com/us/r1000/0/Music115/v4/86/b5/25/86b525b1-bff1-4bf6-6112-531251b3d672/dj.hthdmusj.jpg,1,,,1,,
+Ray Charles,Ray Charles (AKA I love her so),67,,0cw6Sv7IwZ87aLPPvNPSd0,https://a5.mzstatic.com/us/r1000/0/Music125/v4/c5/9a/76/c59a7634-222b-8e9c-b7bb-e21b03689857/s06.qpwudujs.jpg,1,,,1,,
+The Police,Outlandos D'Amour,68,,1H9g6j4Wwj6wh6p8YHVtkf,https://a5.mzstatic.com/us/r1000/0/Music126/v4/47/de/29/47de29d9-5109-2020-d296-1021a7378574/16UMGIM60880.rgb.jpg,1,,,1,,
+Wham,Make it Big,69,,02f3y3NTsddjdUMoNiBppI,https://a5.mzstatic.com/us/r1000/0/Music115/v4/ee/49/ac/ee49accc-78bd-bcdb-1aff-c40c1ac3ccc4/074643959520.jpg,1,,,1,,
+Lauren Hill,The miseducation of Lauren Hill,70,,1BZoqf8Zje5nGdwZhOjAtD,https://a5.mzstatic.com/us/r1000/0/Music125/v4/09/6b/55/096b55c4-ee8f-23bd-df8f-0ca0821f3028/886446727189.jpg,1,,,1,,
+Paramore,Riot,71,,3UoOO8m0oxxvUHXUKf3qcZ,https://a5.mzstatic.com/us/r1000/0/Music125/v4/9a/3a/26/9a3a2608-29a7-5585-f990-cdfeb10b7394/075679955005.jpg,1,,,1,,
+Aretha Franklin,Live in Philly 1972,72,,3s3zlBgBcFcbnU6c3tTKKo,https://a5.mzstatic.com/us/r1000/0/Features4/v4/eb/de/74/ebde74ec-c78e-2b53-5326-6fc89c583361/dj.iocubvxp.jpg,1,1,,2,,
+Regina Spektor,11:11,73,,4hl6YB0KvJ22Nu99uRPEkt,https://a5.mzstatic.com/us/r1000/0/Music112/v4/c1/43/b2/c143b26f-c75e-981a-64dd-94ac333c5106/093624880097.jpg,1,1,1,2,https://a5.mzstatic.com/us/r1000/0/Music112/v4/c1/43/b2/c143b26f-c75e-981a-64dd-94ac333c5106/093624880097.jpg,
+Diana Ross,Diana,74,,3zgDLoVcpVGfFbDZJf3uHI,https://a5.mzstatic.com/us/r1000/0/Music124/v4/4b/68/94/4b68944b-e875-5729-e97f-c781fc9e0c1e/06UMGIM11291.rgb.jpg,1,,,1,,
+compilation,famous when dead four,75,,6uoxpWyulBZ9Yb1i81fUK2,https://www.google.com/search?q=famous+when+dead+four&tbm=isch&ved=2ahUKEwjFiI6Y5oiAAxVUj2MGHdCxCkEQ2-cCegQIABAA&oq=famous+when+dead+four&gs_lcp=CgNpbWcQAzoECCMQJ1CqBViqBWCjCGgAcAB4AIAB0gKIAf8EkgEDMy0ymAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=qWquZIWQCdSejuMP0OOqiAQ&bih=664&biw=1536&rlz=1C1GCEA_enAU926AU926&safe=active#imgrc=cRJYXoBtyaNhgM,1,,1,1,,
+The Beatles,The Beatles,76,,klALx0u4AavZNEvC4LrTL,https://a5.mzstatic.com/us/r1000/0/Music115/v4/fa/5b/89/fa5b898d-bad6-e053-4195-260e5c74f2bb/00602567725466.rgb.jpg,1,,,1,,
+The Beatles,Revolver,77,,7C221PnWhYGv8Tc0xSbfdc,https://a5.mzstatic.com/us/r1000/0/Music122/v4/cd/85/d6/cd85d67f-29c1-f554-bc11-7882d8653e22/22UMGIM95894.rgb.jpg,1,,,1,,
+The Beatles,Sgt Pepper's Lonely Hearts Club Band,78,,1ntNLgaYCFCkeW4flGYlY2,https://a5.mzstatic.com/us/r1000/0/Music114/v4/6f/79/8d/6f798d84-7475-8525-fc91-f7b51b2b5a9b/00602567725428.rgb.jpg,1,,,1,,
+Eddy Current Suppression Ring,Primary Colours,79,,1srXpYJaQiPcTQPVury27M,https://a5.mzstatic.com/us/r1000/0/Music/3d/ed/96/mzi.ciznuuee.jpg,1,,,1,,
+Smith Street Band,More Scared of You than You are Of Me,80,,4S0u2EwWBpnucVikLoIKx8,https://a5.mzstatic.com/us/r1000/0/Music112/v4/ad/69/1e/ad691efb-916d-ae6e-33b9-1bb7be7d9530/507.jpg,1,,,1,,
+Smith Street Band,No One Gets Lost Anymore,81,,2hul2zNcF5WmfoEqUpMcKF,https://a5.mzstatic.com/us/r1000/0/Music118/v4/81/1b/c4/811bc4fd-38e6-0e72-e8d4-8ee26f597f62/cover.jpg,1,,,1,,
+Smith Street Band,Throw Me in The River,82,,6Tcr5y1CkKeqwhNk7oGlRl,https://a5.mzstatic.com/us/r1000/0/Music112/v4/37/19/d8/3719d873-c1eb-131e-d34e-2c57606ff217/593.jpg,1,,,1,,
+Smith Street Band,Don't Waste Your Anger,83,,5Fk3MYCD57pOyC0XClsqmk,https://a5.mzstatic.com/us/r1000/0/Music123/v4/ae/d5/04/aed50425-240d-0502-569d-6eeea11a4619/cover.jpg,1,,,1,,
+LSDREAM,Renegades of Light,84,,4KVo7hcHmc7x12sszqdLAN,https://a5.mzstatic.com/us/r1000/0/Music124/v4/f7/55/fe/f755fee1-c6ad-12e2-4755-2ee1b97cde60/cover.jpg,1,,,1,,
+Duke Ellington and John Coltrane,Duke Ellington and John Coltrane,85,,1OvmilWKtrabJGEpPRlgK5,https://a5.mzstatic.com/us/r1000/0/Music124/v4/80/ec/70/80ec708b-13ab-a9d7-71cc-31f9c40abf47/12UMGIM11023.rgb.jpg,1,,,1,,
+Sandi Thom ,PunkRocker ,86,,04BARFshyYTNncSibK06s8,https://a5.mzstatic.com/us/r1000/0/Music49/v4/e9/03/a1/e903a14a-5fb7-55f8-2fd8-93be9e28ba9c/190374623858.jpg,1,,,1,,
+Fun,Some nights ,87,,7m7F7SQ3BXvIpvOgjW51Gp,https://a5.mzstatic.com/us/r1000/0/Features115/v4/b2/df/a3/b2dfa32c-ea54-7983-0da1-6964e60a1bd7/dj.aqphuayl.jpg,1,,,1,,
+Raye ,My 21st century blues ,88,,3U8n8LzBx2o9gYXvvNq4uH,https://a5.mzstatic.com/us/r1000/0/Music112/v4/90/93/08/909308e3-94ca-dbf8-ebc7-0177bae4b9ad/197186999980.jpg,1,,,1,,
+Grace VanderWaal,Just the beginning ,89,,55LUvkPPMUgwQVmypS3Wex,https://a5.mzstatic.com/us/r1000/0/Music114/v4/97/7e/a0/977ea0b6-1816-24e3-b224-d70b2d131597/886446736136.jpg,1,,,1,,
+Sigur Rós,Ágætis Byrjun,90,,1DMMv1Kmoli3Y9fVEZDUVC,https://a5.mzstatic.com/us/r1000/0/Music114/v4/f7/34/fd/f734fd6c-aeca-8052-825c-706d1c665a8b/190296941856.jpg,1,,1,1,,
+Sigur Rós,Tak...,91,,3sE83l3A58DipFp3EzNLiE,https://a5.mzstatic.com/us/r1000/0/Music114/v4/ce/3e/b8/ce3eb805-fb13-0200-5856-081ed0014e13/190296926952.jpg,1,,1,,,
+Teymori,Teymori,92,,5rS3QIZCVJiqURLRhc0KW5,https://a5.mzstatic.com/us/r1000/0/Music122/v4/75/ed/ab/75edab20-4bf2-e608-8855-437f1bf1d6e6/artwork.jpg,1,,1,1,,
+Summer Walker,Over It,93,,1qgJNWnPIeK9rx7hF8JCPK,https://a5.mzstatic.com/us/r1000/0/Music115/v4/4a/53/20/4a532075-d7af-ab90-5cbf-2e032be140f4/19UMGIM85343.rgb.jpg,1,,1,1,,
+Disclosure,Settle,94,,0v5BqH7RQlIuJIWfQCl1Bp,https://a5.mzstatic.com/us/r1000/0/Music124/v4/c3/eb/3e/c3eb3efb-bc90-d5ac-c7c3-a047b08af582/13UMGIM46983.rgb.jpg,1,,1,1,,
+Pouch Envy,"VIP CLUB EDITS, Vol. 2",95,,5LiY0zzjnblOGVfwGi0oHQ,https://a5.mzstatic.com/us/r1000/0/Music122/v4/bd/c7/18/bdc7188e-9d4b-bd3b-3cb1-7857b08765dc/artwork.jpg,1,,1,1,,
+Shygirl,Nymph,96,,3i4ZYO2l14kCTRzw90JmZ4,https://a5.mzstatic.com/us/r1000/0/Music112/v4/dd/50/2a/dd502a01-fe53-3529-3a3e-d080c0a46546/5056556107729_cover.jpg,1,,1,1,,
+Doss,4 New Hit Song *Remixes,97,,5wpmAoT9ZcBQ1YAcloFVhj,https://a5.mzstatic.com/us/r1000/0/Music122/v4/1a/a7/5a/1aa75aeb-648c-0cfd-c4d7-dc0a5afcb9b6/5056614702804.jpg,1,,1,1,,
+Ta-Ku,Do What You Love,98,,4Ky5T2DLApli3Z8qmf28Cv,https://a5.mzstatic.com/us/r1000/0/Music116/v4/d9/19/48/d91948c6-9a0a-a282-1155-9494d25cabdf/cover.jpg,1,,1,1,,
+Kevin Aviance,Box Of Chocolates,99,,1iIC7QKwsTtWNRV7NxfrK5,https://a5.mzstatic.com/us/r1000/0/Music/a6/75/76/mzi.haimozti.jpg,1,,1,1,,
+Purity Ring,Shrines,100,,7nuxFL8lYQTIlpEEPEMpN8,https://a5.mzstatic.com/us/r1000/0/Music122/v4/fa/ef/be/faefbec4-10e9-8c0b-c350-cfa5d6f28a07/652637321869.png,1,,1,1,,
+Phoebe Bridgers,Stranger in the Alps (Deluxe Edition),101,,5rcJ5xCMYYLCgGilFDKRZl,https://a5.mzstatic.com/us/r1000/0/Music114/v4/fa/28/32/fa2832a4-b5fc-97e3-9ec6-30bb54403880/656605379852.jpg,1,,1,1,,
+Fat Sushi,"Life, Death & Robots",102,,1Nj0HVE0wr5cAPzzPkFose,https://a5.mzstatic.com/us/r1000/0/Music125/v4/58/a3/32/58a33293-4091-ade7-fe30-ae9cdb38e306/5056495363262_1.jpg,1,,1,1,,
+Frank Ocean,Channel ORANGE (Explicit Version),103,,623Ef2ZEB3Njklix4PC0Rs,https://a5.mzstatic.com/us/r1000/0/Music125/v4/04/f8/63/04f863fc-2852-604f-c910-a97ac069506b/12UMGIM40339.rgb.jpg,1,,1,1,,
+Dodie,Build a Problem,104,,2oMbQ7W1QddUdasTYrJdzE,https://a5.mzstatic.com/us/r1000/0/Music115/v4/d3/f2/a2/d3f2a2e2-9ea7-f9e5-41e6-9e4a35416cc0/195497329526.jpg,1,,1,1,,
+Teksa,Space Travel,105,,4oCmIux1RVR4skfbQU4vwh,https://a5.mzstatic.com/us/r1000/0/Music125/v4/bd/48/8a/bd488a19-9125-7606-cebd-7a29fa165097/3665741000268.png,1,,1,1,,
+FKA Twigs,CAPRISONGS,106,,3G77BQuJy3jahjdkKQNNNM,https://a5.mzstatic.com/us/r1000/0/Music116/v4/8b/e0/83/8be08379-7184-9dcb-ee56-c609ae819737/075679760906.jpg,1,,1,1,,
+Steve Lacy,Gemini Rights,107,,3Ks0eeH0GWpY4AU20D5HPD,https://a5.mzstatic.com/us/r1000/0/Music112/v4/2a/cb/e3/2acbe3f1-7a65-e2c1-8f12-ba04c6ee05dc/196589099631.jpg,1,,1,1,,
+SZA,SOS,108,,07w0rG5TETcyihsEIZR3qG,https://a5.mzstatic.com/us/r1000/0/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg,1,,1,1,,
+Antony and the Johnsons,I Am A Bird Now,109,,4yYa6DGzkYsAIpoE8ael1V,https://a5.mzstatic.com/us/r1000/0/Features124/v4/b6/a0/f4/b6a0f477-c519-12f6-fc66-cb0ddcbe5aa8/dj.taagaquh.jpg,1,,1,1,,
+Various Artists,"Armada Deep House Selection, Vol. 8 (The finest Deep House Tunes)",110,,42wZa2ywYMFubiSEPwTvfn,https://a5.mzstatic.com/us/r1000/0/Music5/v4/24/06/55/240655b9-9ad8-7d5c-b4c9-a2b420c1ceb4/8718522076152.png,1,,1,1,,
+Sans Souci,Urban Safari,111,,4zXybpTIwKgctTlPNdFHFF,https://a5.mzstatic.com/us/r1000/0/Music115/v4/c9/5e/1b/c95e1b8b-e570-1d8e-fe47-83414cb24399/cover.jpg,1,,1,1,,
+Various Artists,Deeper Sessions,112,,7Guu2FIyoFdUaCJDpZvg2P,https://a5.mzstatic.com/us/r1000/0/Music5/v4/c5/f0/4f/c5f04f78-c951-fe27-65d3-a91adc03c83b/8718522051548.jpg,1,,1,1,,
+Frank Ocean,Blonde,113,,3mH6qwIy9crq0I9YQbOuDf,https://a5.mzstatic.com/us/r1000/0/Music115/v4/bb/45/68/bb4568f3-68cd-619d-fbcb-4e179916545d/BlondCover-Final.jpg,1,,1,1,,
+Royksopp,Profound Mysteries Remixes,114,,7udMmf4rMWzz3BeIFphddX,https://a5.mzstatic.com/us/r1000/0/Music112/v4/83/3b/6e/833b6ea5-b8f0-9668-1e2c-f526d65c8973/5060236637864_cover.jpg,1,,1,1,,
+Nate Traveller,Born Erased,115,,3hzt5mEdhd9YF81TGH1pOx,https://a5.mzstatic.com/us/r1000/0/Music112/v4/80/e9/14/80e91469-9377-8e00-54ad-400d7e8c4d77/193436296977_bornerased.jpg,1,,1,1,,
+Saint Levant,From Gaza With Love,116,,5bah1OVDvcvn92BMkgOO6o,https://a5.mzstatic.com/us/r1000/0/Music116/v4/74/b7/99/74b7995b-ab7b-09d0-98bc-d61ad6aa31bf/58275.jpg,1,,1,1,,
+Kim Petras,Slut Pop,117,,4rs52z8T5zPbsa5HM75tua,https://a5.mzstatic.com/us/r1000/0/Music126/v4/8f/a7/65/8fa765cb-6e5f-e6f5-5ddb-95b48bf6de9e/22UMGIM13152.rgb.jpg,1,,1,1,,
+Wata Igarashi,Agartha,118,,5kuzeufUirI4eXJ3VEYZOO,https://a5.mzstatic.com/us/r1000/0/Music126/v4/de/3d/1a/de3d1ae7-127a-4126-0aa8-fae81e2689dc/4250101453816_cover.jpg,1,,1,1,,
+Leikeli47,Wash & Set,119,,1VAZdFNZ1t5BYugJ3NfaZh,https://a5.mzstatic.com/us/r1000/0/Music115/v4/96/63/e7/9663e7c2-7053-b08c-33cf-9f923e49e5a2/886446652986.jpg,1,,1,1,,
+"Mark Nolan, David Redwitz, Cyril Sorongon & Roman Raithel",Industrial Techno,120,,5K466KTf6sUQJEsw4Zj16r,https://a5.mzstatic.com/us/r1000/0/Music122/v4/db/15/dc/db15dc2a-85ed-3776-cdfd-594cb00f6ce9/cover.jpg,1,,1,1,,
+Ethel Cain,Preacher's Daughter,121,,3WmujGwOS0ANHkJRnMH6n8,https://a5.mzstatic.com/us/r1000/0/Music122/v4/a7/ed/58/a7ed5868-e006-c8cb-5283-e138ea399701/5056167172390_1.jpg,1,,1,1,,
+Mandoza,Sgantsontso,122,,61BDLPbINyYjPVkBzHdSeB,https://a5.mzstatic.com/us/r1000/0/Music60/v4/da/27/61/da276136-1f25-a7ad-5fee-f93443d2231e/859713515741_cover.jpg,1,,1,1,,
+Opus III,Mind Fruit,123,,5qPIkrDnqxksLOFpFYqvEz,https://a5.mzstatic.com/us/r1000/0/Features124/v4/0c/f8/7f/0cf87f6a-b749-5c0f-bb9e-75f5cd6ef292/dj.tuughtym.jpg,1,,1,1,,
+November Ultra,Bedroom Walls,124,,0kO4dLIKEg2hYQNjhmJOfx,https://a5.mzstatic.com/us/r1000/0/Music123/v4/ae/a2/9c/aea29cb6-359a-1c76-4212-07ed2377d06f/21UM1IM58197.rgb.jpg,1,,1,1,,
+Flo Milli,"Ho, Why is you here? ",125,,49FIsErcdC5rfTFhRpPZ7P,https://a5.mzstatic.com/us/r1000/0/Music125/v4/f7/5a/e6/f75ae600-a1c4-3150-3323-7e329eebca3a/886448446026.jpg,1,,1,1,,
+Dreamer Isioma,Princess Forever,126,,24nQZEr8mncYgewoIVbCHR,https://a5.mzstatic.com/us/r1000/0/Music116/v4/93/6c/2c/936c2c36-964b-ce82-fe45-6e8c1e8fbd72/197188383244.jpg,1,,1,1,,
+Various Artists,Barbie The Album,127,,0BaIaHcyBXuOWeM4Aas4EW,https://a5.mzstatic.com/us/r1000/0/Music116/v4/c0/54/97/c05497aa-c19f-bf4f-de29-71edf30fbefb/075679688767.jpg,1,,1,1,,
+"Flmm, RVDE, and I Hate Models",VA/01 DGTL,128,,2VwYcshlZdCSE7xeliCCn0,https://a5.mzstatic.com/us/r1000/0/Music122/v4/4a/ee/36/4aee3642-0ebf-bbe5-f35c-2f69c7843718/8790001374270.png,1,,1,1,
