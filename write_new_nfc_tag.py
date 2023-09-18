@@ -7,7 +7,7 @@ import csv
 rfid = PiicoDev_RFID()
 
 # sonos room to play test sound on
-sonos_room = "Sonos Move"
+sonos_room = "Living%20Room"
 play_delay = 100
 
 def csv_lookup(lookup_key):

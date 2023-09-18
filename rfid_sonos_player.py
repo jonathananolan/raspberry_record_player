@@ -7,7 +7,7 @@ import requests
 rfid = PiicoDev_RFID()
 
 # sonos group of speakers to play
-sonos_group = "Kitchen"
+sonos_group = "Living%20Room"
 
 # sleep times (ms)
 
@@ -25,7 +25,8 @@ record_removed_delay = 10000
 
 import csv
 
-def csv_lookup(lookup_key):
+def csv_lookup(lookup_key_raw):
+    lookup_key = lookup_key_raw.lstrip("0") 
     file_path = '/home/pi/raspberry_record_player/lookup_table.csv'  # Define the csv file path here
     with open(file_path, mode='r') as file:
         reader = csv.DictReader(file)
