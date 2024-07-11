@@ -1,5 +1,11 @@
 # Raspberry Pi Record Player
 
+# How to print...
+
+Details for the fabrication are available here: 
+
+https://www.printables.com/model/673426-raspberry-pi-record-player
+
 ## Start on boot
 
 To have the record player start on boot, you can install it as a systemd service,
